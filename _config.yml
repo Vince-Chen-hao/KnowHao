@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: true
 future: true
 highlight:
@@ -101,4 +101,4 @@ theme: hipaper
 deploy:
   type: git
   repo: https://github.com/Vince-Chen-hao/KnowHao.git
-  branch: gh-pages
+  branch: master
