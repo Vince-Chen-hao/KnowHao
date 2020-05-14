@@ -100,5 +100,6 @@ theme: hipaper
 
 deploy:
   type: git
-  repo: https://github.com/Vince-Chen-hao/KnowHao.git
+  repo: git@github.com:Vince-Chen-hao/Haoknow.github.io.git
   branch: master
+
